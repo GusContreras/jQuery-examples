@@ -1,0 +1,35 @@
+body{
+	color:#fff;
+}
+.seccion{
+	height: 100vh;
+	text-align: center;
+}
+.seccion{
+	background-image: url("../img/astronauta.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pie{
+	background: black;
+	color:#fff;
+	text-align: center;
+	padding: 10px;
+}
+#div5{
+    background-image: url("../img/cierre-telon.jpg");
+    
+}
+#div7{
+    background-image: url("../img/fuego.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#div8{
+    background-image: url("../img/fiesta.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#div10{
+    background-image: url("../img/llorar.gif");
+}
